@@ -1,12 +1,3 @@
-# Contact
-
-12151 N Meditation Drive 
-Marana, Arizona, 85658 
-
-email: shripad.sinari@gmail.com
-
-Tel #: 520-245-6292
-
 # Summary
 
 Experienced biostatistician with strong applied statistics and computing
