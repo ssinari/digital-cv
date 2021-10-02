@@ -2,12 +2,12 @@ theme: jekyll-theme-minimal
 title: Shripad Sinari
 show_downloads: false
 address: |
- 12151 N Meditation Drive
+ 12151 N Meditation Drive \
  Marana, Arizona, 85658
 education: |
- M.Sc. Biostatistics
- The University of Arizona, Tucson, Arizona
- M.Sc. Mathematics
+ M.Sc. Biostatistics \
+ The University of Arizona, Tucson, Arizona \
+ M.Sc. Mathematics \
  The University of Arizona, Tucson, Arizona
 Summary: |
  Experienced biostatistician with strong applied statistics and computing background. 
