@@ -81,11 +81,3 @@ REDCap, RODBC for interfacing with other databases.
 
 ### Visualization: 
 ggplot2, shinyapps, flexdashboards.
-
-## EDUCATION:
-
-### M.Sc. Biostatistics 
-The University of Arizona, Tucson, Arizona
-
-### M.Sc. Mathematics
-The University of Arizona, Tucson, Arizona
