@@ -9,16 +9,16 @@ collaboration and timely execution of projects.
 
 ## Experience
 
-### Statistician: Jan 2013 to present
+**Statistician: Jan 2013 to present**<br/>
 _BIO5 Institute, The University of Arizona, Tucson, Arizona._<br/>
 Provides statistical and computing expertise in basic, applied and clinical
 research.
 
-### Staff Scientist: Nov 2011 to Jan 2013
+**Staff Scientist: Nov 2011 to Jan 2013**<br/>
 _R&D Support, Life Technologies, Foster City, California._<br/>
 Provided diagnostic and analytical support for Ion Torrent Technology.
 
-### Bioinformatician: Mar 2008 to Nov 2011 
+**Bioinformatician: Mar 2008 to Nov 2011**<br/> 
 _Translational Genomics Research Institute, Phoenix, Arizona._<br/>
 Developed analysis workflows and structural variation algorithms.
 
