@@ -1,6 +1,6 @@
 # Biostatistician
 
-**Professional Summary**
+**PROFESSIONAL SUMMARY**
 
 Experienced biostatistician with strong applied statistics and computing
 background. Hands on experience in writing statistical analysis plans (SAP),
