@@ -45,7 +45,7 @@ analytical and computational techniques. Mentored other team
 members and student collaborators as required.
 
 
-## Skills
+## SKILLS
 
 ### Data types handled:
 Longitudinal data, High-throughput omics data, public health and clinical data.
@@ -65,7 +65,7 @@ REDCap, RODBC for interfacing with other databases.
 ### Visualization: 
 ggplot2, shinyapps, flexdashboards.
 
-## Education
+## EDUCATION
 
 ### MS Biostatistics
 
