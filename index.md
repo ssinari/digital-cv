@@ -7,7 +7,23 @@ communicating complex results to diverse audiences, and ensuring understanding
 of requirements at all levels of a cross functional team for smooth
 collaboration and timely execution of projects.
 
+## Experience
 
+### Statistician: Jan 2013 to present
+_BIO5 Institute, The University of Arizona, Tucson, Arizona._
+
+Provides statistical and computing expertise in basic, applied and clinical
+research.
+
+### Staff Scientist: Nov 2011 to Jan 2013
+_R&D Support, Life Technologies, Foster City, California._
+
+Provided diagnostic and analytical support for Ion Torrent Technology.
+
+### Bioinformatician: Mar 2008 to Nov 2011 
+_Translational Genomics Research Institute, Phoenix, Arizona._
+
+Developed analysis workflows and structural variation algorithms.
 
 ## CAREER HIGHLIGHTS
 
@@ -44,23 +60,6 @@ Exchanged ideas with colleagues to learn and implement emerging
 analytical and computational techniques. Mentored other team
 members and student collaborators as required.
 
-## Experience
-
-### Statistician: Jan 2013 to present
-_BIO5 Institute, The University of Arizona, Tucson, Arizona._
-
-Provides statistical and computing expertise in basic, applied and clinical
-research.
-
-### Staff Scientist: Nov 2011 to Jan 2013
-_R&D Support, Life Technologies, Foster City, California._
-
-Provided diagnostic and analytical support for Ion Torrent Technology.
-
-### Bioinformatician: Mar 2008 to Nov 2011 
-_Translational Genomics Research Institute, Phoenix, Arizona._
-
-Developed analysis workflows and structural variation algorithms.
 
 ## Skills
 
