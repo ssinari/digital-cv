@@ -45,23 +45,25 @@ scholar: |
   <i class="ai ai-google-scholar ai-2x"></i>
   </span>
   </a>
-experience: |
- <br/>
- <b>Statistician:</b> Jan 2013 to present<br/>
- <i>BIO5 Institute, The University of Arizona.</i><br/>
- Provides statistical and computing expertise 
- in basic, applied and clinical research.<br/>
- <br/>
- <b>Staff Scientist:</b> Nov 2011 to Jan 2013<br/>
- <i>R&D Support, Life Technologies,     
- Foster City, California.</i><br/>
- Provided diagnostic and analytical support
- for Ion Torrent Technology.<br/>
- <br/>
- <b>Bioinformatician:</b> Mar 2008 to Nov 2011<br/> 
- <i>Translational Genomics Research Institute,  
- Phoenix, Arizona.</i><br/>
- Developed analysis workflows and
- structural variation algorithms.
+skills: |
+  <br/>
+  <b>Data types handled:</b>
+  Longitudinal data, High-throughput omics data, public health and clinical data.
+  <br/>
+  <b> Statistical techniques:</b>
+  Generalized Linear Models (GLM), Mixed-Models, Survival analysis, Statistical Machine Learning, Bayesian data analysis, Compositional data analysis (CoDA).
+  <br/>
+  <b> Data analysis software:</b>
+  SAS, R, ecosystem of packages Bioconductor, tidyverse, mlverse, keras, TensorFlow.
+  <br/>
+  <b> Bayesian computing: </b>
+  OpenBUGS, JAGS, Stan.
+  <br/>
+  <b> Databases:</b>
+  REDCap, RODBC for interfacing with other databases.
+  <br/>
+  <b> Visualization:</b>
+  ggplot2, shinyapps, flexdashboards.
+
 
 

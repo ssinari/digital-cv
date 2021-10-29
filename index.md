@@ -13,26 +13,6 @@ communicating complex results to diverse audiences, and ensuring understanding
 of requirements at all levels of a cross functional team for smooth
 collaboration and timely execution of projects.
 
-## <i class="fa fa-pencil fa-1x"> SKILLS</i>
-
-### Data types handled:
-Longitudinal data, High-throughput omics data, public health and clinical data.
-
-### Statistical techniques:
-Generalized Linear Models (GLM), Mixed-Models, Survival analysis, Statistical Machine Learning, Bayesian data analysis, Compositional data analysis (CoDA).
-
-### Data analysis software:
-SAS, R, and related ecosystem of packages such as Bioconductor and tidyverse. Machine learning software such as Keras, mlverse, TensorFlow.
-
-### Bayesian computing: 
-OpenBUGS, JAGS, Stan.
-
-### Databases:
-REDCap, RODBC for interfacing with other databases.
-
-### Visualization: 
-ggplot2, shinyapps, flexdashboards.
-
 ## <i class="fa fa-info-circle fa-1x"> CAREER HIGHLIGHTS</i>
 
 ### Statistical contributions:
@@ -69,12 +49,24 @@ analytical and computational techniques. Mentored other team
 members and student collaborators as required.
 
 
+## <i class="fa fa-graduation-cap fa-1x"> EXPERIENCE:</i>
+ 
+### Statistician:  Jan 2013 to present 
+*BIO5 Institute, The University of Arizona.*<br/>
+Provides statistical and computing expertise in basic, applied and clinical research. 
+  
+###  Staff Scientist:  Nov 2011 to Jan 2013 
+*R&D Support, Life Technologies, Foster City, California.*<br/>
+ Provided diagnostic and analytical support for Ion Torrent Technology. 
+  
+###  Bioinformatician:  Mar 2008 to Nov 2011
+*Translational Genomics Research Institute, Phoenix, Arizona.*<br/>
+ Developed analysis workflows and structural variation algorithms.
+
 ## <i class="fa fa-graduation-cap fa-1x"> EDUCATION</i>
 
+
 ### MS Biostatistics
-
-The University of Arizona, Tucson, Az.
-
 ### MS Mathematics
+###  <i class="fa fa-institution fa-1x"> The University of Arizona, Tucson, Az.</i>
 
-The University of Arizona, Tucson, Az.
