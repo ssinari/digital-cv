@@ -49,7 +49,7 @@ analytical and computational techniques. Mentored other team
 members and student collaborators as required.
 
 
-## <i class="fa fa-graduation-cap fa-1x"> EXPERIENCE:</i>
+## <i class="fa fa-pencil fa-1x"> EXPERIENCE:</i>
  
 ### Statistician:  Jan 2013 to present 
 *BIO5 Institute, The University of Arizona.*<br/>
