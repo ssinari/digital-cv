@@ -13,7 +13,7 @@ communicating complex results to diverse audiences, and ensuring understanding
 of requirements at all levels of a cross functional team for smooth
 collaboration and timely execution of projects.
 
-## <i class="fa fa-info-circle fa-1x"> CAREER HIGHLIGHTS</i>
+## <i class="fa fa-lightbulb-o fa-1x"> CAREER HIGHLIGHTS</i>
 
 ### Statistical contributions:
 - Decided appropriate statistical strategies on several grants and
