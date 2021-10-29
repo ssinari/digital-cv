@@ -1,6 +1,10 @@
-# Biostatistician
+---
+layout: default
+---
 
-**PROFESSIONAL SUMMARY**
+#  Biostatistician
+
+<i class="fa fa-user fa-1x"> **PROFESSIONAL SUMMARY**</i>
 
 Experienced biostatistician with strong applied statistics and computing
 background. Hands on experience in writing statistical analysis plans (SAP),
@@ -9,7 +13,27 @@ communicating complex results to diverse audiences, and ensuring understanding
 of requirements at all levels of a cross functional team for smooth
 collaboration and timely execution of projects.
 
-## CAREER HIGHLIGHTS
+## <i class="fa fa-pencil fa-1x"> SKILLS</i>
+
+### Data types handled:
+Longitudinal data, High-throughput omics data, public health and clinical data.
+
+### Statistical techniques:
+Generalized Linear Models (GLM), Mixed-Models, Survival analysis, Statistical Machine Learning, Bayesian data analysis, Compositional data analysis (CoDA).
+
+### Data analysis software:
+SAS, R, and related ecosystem of packages such as Bioconductor and tidyverse. Machine learning software such as Keras, mlverse, TensorFlow.
+
+### Bayesian computing: 
+OpenBUGS, JAGS, Stan.
+
+### Databases:
+REDCap, RODBC for interfacing with other databases.
+
+### Visualization: 
+ggplot2, shinyapps, flexdashboards.
+
+## <i class="fa fa-info-circle fa-1x"> CAREER HIGHLIGHTS</i>
 
 ### Statistical contributions:
 - Decided appropriate statistical strategies on several grants and
@@ -45,27 +69,7 @@ analytical and computational techniques. Mentored other team
 members and student collaborators as required.
 
 
-## SKILLS
-
-### Data types handled:
-Longitudinal data, High-throughput omics data, public health and clinical data.
-
-### Statistical techniques:
-Generalized Linear Models (GLM), Mixed-Models, Survival analysis, Statistical Machine Learning, Bayesian data analysis, Compositional data analysis (CoDA).
-
-### Data analysis software:
-SAS, R, and related ecosystem of packages such as Bioconductor and tidyverse. Machine learning software such as Keras, mlverse, TensorFlow.
-
-### Bayesian computing: 
-OpenBUGS, JAGS, Stan.
-
-### Databases:
-REDCap, RODBC for interfacing with other databases.
-
-### Visualization: 
-ggplot2, shinyapps, flexdashboards.
-
-## EDUCATION
+## <i class="fa fa-graduation-cap fa-1x"> EDUCATION</i>
 
 ### MS Biostatistics
 

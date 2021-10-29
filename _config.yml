@@ -1,22 +1,50 @@
-theme: jekyll-theme-minimal
-title: Shripad Sinari
+remote_theme:  pages-themes/minimal
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-seo-tag
 show_downloads: false
+title: Shripad Sinari
 address: |
  <br/>
  seomewhere over the rainbow <br/>
  bluebirds, sing, 85659
-email: <a href="mailto:shripad.sinari@gmail.com">Email</a>
-website: <a href="https://workwithcarolyn.com/">Site</a>
-linkedIn: <a href="https://www.linkedin.com/in/shripad-sinari-9a48801/">LinkedIn</a>
-github: <a href="https://github.com/ssinari/">Github</a>
-scholar: <a href="https://scholar.google.com/citations?user=avKGegEAAAAJ&hl=en">Scholar</a>
-education: | 
- <br/>
- M.Sc. Biostatistics <br/>
- M.Sc. Mathematics <br/>
-institution: |
- The University of Arizona <br/>
- Tucson, Arizona
+email: |
+  <a href=""mailto:shripad.sinari@gmail.com"">
+  <span style="color: \#00629b; font-size: 1.5rem;">
+  <i class="fal fa-envelope fa-1x"></i>
+  </span>
+  </a>
+phone: |
+  <a href="tel:+1 (520) 245-6292">
+  <span style="color: \#00629b; font-size: 0.75rem; margin-left:15px;">
+  <i class="fas fa-phone fa-2x"></i>
+  </span>
+  </a>
+linkedIn:  |
+  <a href="https://linkedin.com/in/shripad-sinari">
+  <span style="color: \#00629b; ; margin-left:20px;">             
+  <i class="fab fa-linkedin-in fa-2x"></i>
+  </span>
+  </a>
+github: |
+  <a href="https://github.com/ssinari">
+  <span style="color: \#00629b; ; margin-left:20px;">
+  <i class="fab fa-github fa-2x"></i>
+  </span>
+  </a>
+scholar: |
+  <a href="https://scholar.google.com/citations?user=avKGegEAAAAJ&hl=en">
+  <span style="color: \#00629b; ; margin-left:20px;">
+  <i class="ai ai-google-scholar ai-2x"></i>
+  </span>
+  </a>
 experience: |
  <br/>
  <b>Statistician:</b> Jan 2013 to present<br/>
@@ -35,4 +63,5 @@ experience: |
  Phoenix, Arizona.</i><br/>
  Developed analysis workflows and
  structural variation algorithms.
+
 
